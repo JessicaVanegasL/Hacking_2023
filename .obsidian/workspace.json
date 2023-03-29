@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "64a84ae758e2645c",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b8cb91d150b730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add848c5933f18e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71368eb223f979af",
+    "type": "split",
+    "children": [
+      {
+        "id": "2150838495275618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac4888ac4384902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c013f99adb86495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c6ab1b16687d801",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a187fe02dca5daff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fafa6497353360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669414eea3cb8126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f19ccb11d285811f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4e209c1744d1036",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38ef40b063612bc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "eac4888ac4384902",
+  "lastOpenFiles": [
+    "Retos-picoCTF/Retos-web parte 3/03-Scavenger Hunt.md",
+    "Retos-picoCTF/Retos-web parte 3/02-Cookies.md",
+    "Retos-picoCTF/Retos-web parte 3/01-GET aHEAD.md",
+    "Retos-picoCTF/Retos-web parte 3",
+    "Retos-picoCTF/Retos-web parte 2/04-JaWT Scratchpad.md",
+    "Retos-picoCTF/Retos-web parte 2/03-Irish name repo 3.md",
+    "Retos-picoCTF/Retos-web parte 2/02-Irish-Name-Repo 2.md",
+    "Retos-picoCTF/Retos-web parte 2/01-Irish-Name-Repo 1.md",
+    "Retos-picoCTF/Retos-web parte 2",
+    "Retos-picoCTF/Retos-Web/Inspect Me.png",
+    "Retos-picoCTF/Retos-Web/Client-side-again.png",
+    "Retos-picoCTF/Retos-Web/06-Client-side-again.md",
+    "Retos-picoCTF/Retos-Web/05-picobrowser.md",
+    "Retos-picoCTF/Retos-Web/04-dont-use-client-side.md",
+    "Retos-picoCTF/Retos-Web/03-logon.md",
+    "Retos-picoCTF/Retos-Web/02-where are the robots.md",
+    "Retos-picoCTF/Retos-Web/01-Insp3ct0r.md",
+    "Retos-picoCTF/Retos-Web",
+    "Retos-picoCTF/Retos forensic - parte 2/05-shark on wire 2/capture.pcap",
+    "Retos-picoCTF/Retos forensic - parte 2/05-shark on wire 2/05-shark on wire 2.md",
+    "Retos-picoCTF/Retos forensic - parte 2/05-shark on wire 2",
+    "Retos-picoCTF/Retos forensic - parte 2/04-like1000/flag.png",
+    "Retos-picoCTF/Retos forensic - parte 2/04-like1000/1000.tar",
+    "Retos-picoCTF/Retos forensic - parte 2/04-like1000/04-like1000.md",
+    "Retos-picoCTF/Retos forensic - parte 2/04-like1000",
+    "Retos-picoCTF/Retos forensic - parte 2/03-c0rrupt/mystery",
+    "Retos-picoCTF/Retos forensic - parte 2/02-WhitePages/whitepages.txt",
+    "Retos-picoCTF/Retos forensic - parte 2/02-WhitePages/exp.py",
+    "Retos-picoCTF/Retos forensic - parte 2/02-WhitePages/07-WhitePages.md",
+    "Retos-picoCTF/Retos forensic - parte 2/03-c0rrupt/c0.png",
+    "Retos-picoCTF/Retos forensic - parte 2/03-c0rrupt/03-c0rrupt.md",
+    "Retos-picoCTF/Retos forensic - parte 2/01-m00nwalk/result.png",
+    "Retos-picoCTF/Retos forensic - parte 2/01-m00nwalk/06-m00nwalk.md",
+    "Retos-picoCTF/Retos forensic - parte 1/05-What Lies Within/Pico.png",
+    "Retos-picoCTF/Retos forensic - parte 1/05-What Lies Within/buildings.png",
+    "Retos-picoCTF/Retos forensic - parte 1/05-What Lies Within/05-What Lies Within.md",
+    "Retos-picoCTF/Retos forensic - parte 1/04-extensions/flag.png",
+    "Retos-picoCTF/Retos forensic - parte 1/04-extensions/04-extensions.md",
+    "Retos-picoCTF/Retos forensic - parte 1/03-shark on wire 1/pico.png",
+    "Retos-picoCTF/Retos forensic - parte 1/03-shark on wire 1/03-shark on wire 1.md",
+    "Retos-picoCTF/Retos forensic - parte 1/02-So Meta/pico_img.png",
+    "Retos-picoCTF/Retos forensic - parte 1/02-So Meta/02-So Meta.md",
+    "Retos-picoCTF/Retos forensic - parte 1/01-Glory of the Garden/01-Glory of the Garden.md",
+    "Retos-bandit/Plantilla.md",
+    "Retos-bandit/Level 9 al 10.md",
+    "Retos-bandit/Level 8 al 9.md"
+  ]
+}
