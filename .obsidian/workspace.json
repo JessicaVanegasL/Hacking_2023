@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00b8cb91d150b730",
+        "id": "e095d9cb26050025",
         "type": "tabs",
         "children": [
           {
-            "id": "add848c5933f18e3",
+            "id": "09920e1c786cb739",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md"
+              }
             }
           }
         ]
@@ -138,29 +146,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eac4888ac4384902",
+  "active": "09920e1c786cb739",
   "lastOpenFiles": [
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example/timer/MainActivity.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example/timer/MainActivity$startCountingDown$1.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example/timer/MainActivity$$ExternalSyntheticLambda0.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example/timer/BuildConfig.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example/timer",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com/example",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3/com",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes3",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes2/androidx/lifecycle/viewmodel/savedstate/R.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes2/androidx/lifecycle/viewmodel/savedstate/R$id.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/smali_classes2/androidx/lifecycle/livedata/core/R.smali",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xxxhdpi/ic_launcher_round.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xxxhdpi/ic_launcher.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xxhdpi/ic_launcher_round.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xxhdpi/ic_launcher.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xhdpi/ic_launcher.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-xhdpi/ic_launcher_round.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-mdpi/ic_launcher_round.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-mdpi/ic_launcher.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-hdpi/ic_launcher_round.webp",
-    "ConcursoPicoCTF2023/12-timer/timer/res/mipmap-hdpi/ic_launcher.webp",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/Forensics is fun.pptm",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/docProps/app.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/docProps/core.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/docProps/thumbnail.jpeg",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/docProps",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/tableStyles.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/viewProps.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/presProps.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/vbaProject.bin",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/theme/theme1.xml",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/theme",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/ppt/slideLayouts/_rels/slideLayout9.xml.rels",
+    "Retos-picoCTF/Retos forensic - parte 3/04 - tunn3l_v1s10n/04 - tunn3l_v1s10n.md",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md",
+    "Retos-picoCTF/Retos forensic - parte 3/04 - tunn3l_v1s10n.md",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll/03 - Matryoshka doll.md",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll/_dolls.jpg.extracted/base_images/2_c.jpg",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll/dolls.jpg",
+    "Retos-picoCTF/Retos forensic - parte 3/02 - Webnet1/02 - Webnet1.md",
+    "Retos-picoCTF/Retos forensic - parte 3/02 - Webnet1/vulture.jpg",
+    "Retos-picoCTF/Retos forensic - parte 3/01 - WebNet0/01 - WebNet0.md",
+    "Retos-picoCTF/Retos forensic - parte 3/01 - WebNet0.md",
+    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll.md",
+    "ConcursoPicoCTF2023/12-timer/timer/res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png",
+    "ConcursoPicoCTF2023/12-timer/timer/res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png",
+    "ConcursoPicoCTF2023/12-timer/timer/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png",
+    "ConcursoPicoCTF2023/12-timer/timer/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge.md",
+    "Retos-picoCTF/Retos forensic - parte 3/02 - Webnet1.md",
+    "Retos-picoCTF/Retos forensic - parte 2/02-WhitePages/07-WhitePages.md",
     "ConcursoPicoCTF2023/12-timer/timer.md",
     "ConcursoPicoCTF2023/11-Safe Opener 2/Safe Opener 2.md",
     "ConcursoPicoCTF2023/10-Rotation/Rotation.md",
@@ -174,17 +193,6 @@
     "ConcursoPicoCTF2023/02-HideToSee/02-HideToSee.md",
     "ConcursoPicoCTF2023/01-Rules 2023/01-Rules 2023.md",
     "ConcursoPicoCTF2023/14-Permissions.md",
-    "ConcursoPicoCTF2023/13-MatchTheRegex.md",
-    "Parcial I/PicoMini 2022/09-PW Crack 3.md",
-    "Parcial I/PicoMini 2022/08-PW Crack 2.md",
-    "Parcial I/PicoMini 2022/07-PW Crack 1.md",
-    "Parcial I/PicoMini 2022/06-Glitch Cat.md",
-    "Parcial I/PicoMini 2022/05-fixme2.py.md",
-    "Parcial I/PicoMini 2022/04-fixme1.py.md",
-    "Parcial I/PicoMini 2022/03-Codebook.md",
-    "Parcial I/PicoMini 2022/02-convertme.py.md",
-    "Parcial I/PicoMini 2022/01-runme.py.md",
-    "Parcial I/Pico CTF 2021/06-Magikarp Ground Mission.md",
-    "Parcial I/Pico CTF 2021/05-Tab, Tab, Attack.md"
+    "ConcursoPicoCTF2023/13-MatchTheRegex.md"
   ]
 }
