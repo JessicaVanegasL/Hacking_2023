@@ -17,7 +17,7 @@ Theres tapping coming in from the wires. What's it saying `nc jupiter.challenge
 .--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ..--- -.... ---.. ...-- ---.. ..--- ....- -.... .---- ----- } 
 ```
 
-![[Soluciòn.png]]
+![[Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping/Soluciòn.png]]
 
 ## Flag
 

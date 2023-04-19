@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec1b91d485558f6a",
+        "id": "19be2b61049e2184",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ec9adff169dc31",
+            "id": "c9d1d6113e6460d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md",
+                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md",
+                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md",
+                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md"
+                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9ec9adff169dc31",
+  "active": "c9d1d6113e6460d7",
   "lastOpenFiles": [
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/Soluciòn.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/Screenshot_2023-04-18_17_09_41.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/XX",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping/06-Tapping.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping/tt",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping/Soluciòn.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping/Screenshot_2023-04-18_16_42_02.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de/05-la cifra de.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de/solución.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de/Screenshot_2023-04-18_16_19_36.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de/ca",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de/cc",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar/04-caesar.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar/exp.py",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar/cc",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/03-13/03-13.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar/ciphertext",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/Nueva carpeta",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/03-13/Solución.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/03-13/Captura de pantalla (2135).png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/03-13.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/02-Easy 1/02-Easy 1.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/02-Easy 1/solución.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/02-Easy 1/Captura de pantalla (2134).png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/02-Easy 1.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/06-Tapping.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/05-la cifra de.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/01-The numbers/01-The numbers.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/01-The numbers/Solución.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/01-The numbers.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 1/01-Glory of the Garden/01-Glory of the Garden.md",
-    "Retos-picoCTF/Untitled.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 3/05 - MacroHard WeakEdge/05 - MacroHard WeakEdge.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 3/04 - tunn3l_v1s10n/04 - tunn3l_v1s10n.md",
-    "Retos-picoCTF/Retos forensic - parte 3/04 - tunn3l_v1s10n.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 3/03 - Matryoshka doll/03 - Matryoshka doll.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 3/02 - Webnet1/02 - Webnet1.md",
-    "Retos-picoCTF/Retos Forensic/Retos forensic - parte 3/01 - WebNet0/01 - WebNet0.md",
-    "Retos-picoCTF/Retos forensic - parte 3/01 - WebNet0.md",
-    "Retos-picoCTF/Retos forensic - parte 3/03 - Matryoshka doll.md",
-    "Retos-picoCTF/Retos forensic - parte 3/05 - MacroHard WeakEdge.md"
+    "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0/05-St3g0...md",
+    "Parcial II/02-Pico CTF 2021 - Forensic/01-information/01-information.md",
+    "Parcial II/01-Pico CTF 2022 - Web/03-Local Authority.md",
+    "Parcial II/01-Pico CTF 2022 - Web/04-Search Source.md",
+    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets/08-Secrets.md",
+    "Parcial II/01-Pico CTF 2022 - Web/05-Forbidden Paths/05-Forbidden Paths.md",
+    "Parcial II/01-Pico CTF 2022 - Web/07-Roboto Sans.md",
+    "Parcial II/01-Pico CTF 2022 - Web/02-Inspect HTML.md",
+    "Parcial II/01-Pico CTF 2022 - Web/09-SQL Direct.md",
+    "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0/pico.flag.png",
+    "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong/04-Redaction gone wrong.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong/Financial_Report_for_ABC_Labs.pdf",
+    "Parcial II/03-Pico CTF 2022 - Forensic/03-Packets Primer/03-Packets Primer.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/03-Packets Primer/soluciòn.png",
+    "Parcial II/03-Pico CTF 2021 - Forensic/03-Packets Primer/Screenshot_2023-04-19_15_50_02.png",
+    "Parcial II/03-Pico CTF 2022 - Forensic/03-Packets Primer/network-dump.flag.pcap",
+    "Parcial II/03-Pico CTF 2022 - Forensic/02-Lookey here/02-Lookey here.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/02-Lookey here/anthem.flag.txt",
+    "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!/01-Enhance!.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!/drawing.flag.svg",
+    "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0",
+    "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong",
+    "Parcial II/03-Pico CTF 2022 - Forensic/03-Packets Primer",
+    "Parcial II/03-Pico CTF 2022 - Forensic/02-Lookey here",
+    "Parcial II/03-Pico CTF 2021 - Forensic/01-Enhance!.md",
+    "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!",
+    "Parcial II/03-Pico CTF 2021 - Forensic/Nueva carpeta (5)",
+    "Parcial II/03-Pico CTF 2021 - Forensic/Nueva carpeta (4)",
+    "Parcial II/03-Pico CTF 2021 - Forensic/05-St3g0...md",
+    "Parcial II/03-Pico CTF 2021 - Forensic/04-Redaction gone wrong.md",
+    "Parcial II/03-Pico CTF 2021 - Forensic/03-Packets Primer.md",
+    "Parcial II/03-Pico CTF 2021 - Forensic/02-Lookey here.md",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/02-Wireshark doo dooo do doo...md",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/solución.png",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/Captura de pantalla (2140).png",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/shark.png",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/Screenshot_2023-04-19_14_45_24.png",
+    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo...md",
+    "Parcial II/02-Pico CTF 2021 - Forensic/01-information/cat.jpg",
+    "Parcial II/02-Pico CTF 2021 - Forensic/01-information.md",
+    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets/solución.png",
+    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets.md",
+    "Parcial II/01-Pico CTF 2022 - Web/06-Power Cookie/06-Power Cookie.md",
+    "Parcial II/01-Pico CTF 2022 - Web/06-Power Cookie.md",
+    "Parcial II/01-Pico CTF 2022 - Web/05-Forbidden Paths.md"
   ]
 }
