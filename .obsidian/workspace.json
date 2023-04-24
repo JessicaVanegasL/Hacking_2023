@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9d1d6113e6460d7",
+            "id": "cda411dd3176223e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
+                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
+                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
+                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md"
+                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9d1d6113e6460d7",
+  "active": "cda411dd3176223e",
   "lastOpenFiles": [
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA/02-miniRSA.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA/ciphertext",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/Nueva carpeta",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/ciphertext",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/01-rsa pop quiz.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/01-The numbers/01-The numbers.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/07-waves over lambda/07-waves over lambda.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2",
+    "Retos-picoCTF/Untitled",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/04-caesar/04-caesar.md",
+    "Parcial II/01-Pico CTF 2022 - Web/06-Power Cookie/06-Power Cookie.md",
+    "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
     "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0/05-St3g0...md",
     "Parcial II/02-Pico CTF 2021 - Forensic/01-information/01-information.md",
     "Parcial II/01-Pico CTF 2022 - Web/03-Local Authority.md",
@@ -157,7 +172,6 @@
     "Parcial II/01-Pico CTF 2022 - Web/07-Roboto Sans.md",
     "Parcial II/01-Pico CTF 2022 - Web/02-Inspect HTML.md",
     "Parcial II/01-Pico CTF 2022 - Web/09-SQL Direct.md",
-    "Parcial II/01-Pico CTF 2022 - Web/10-SQLLite.md",
     "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0/pico.flag.png",
     "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong/04-Redaction gone wrong.md",
     "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong/Financial_Report_for_ABC_Labs.pdf",
@@ -170,29 +184,15 @@
     "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!/01-Enhance!.md",
     "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!/drawing.flag.svg",
     "Parcial II/03-Pico CTF 2022 - Forensic/05-St3g0",
-    "Parcial II/03-Pico CTF 2022 - Forensic/04-Redaction gone wrong",
-    "Parcial II/03-Pico CTF 2022 - Forensic/03-Packets Primer",
-    "Parcial II/03-Pico CTF 2022 - Forensic/02-Lookey here",
     "Parcial II/03-Pico CTF 2021 - Forensic/01-Enhance!.md",
-    "Parcial II/03-Pico CTF 2022 - Forensic/01-Enhance!",
-    "Parcial II/03-Pico CTF 2021 - Forensic/Nueva carpeta (5)",
-    "Parcial II/03-Pico CTF 2021 - Forensic/Nueva carpeta (4)",
     "Parcial II/03-Pico CTF 2021 - Forensic/05-St3g0...md",
     "Parcial II/03-Pico CTF 2021 - Forensic/04-Redaction gone wrong.md",
     "Parcial II/03-Pico CTF 2021 - Forensic/03-Packets Primer.md",
-    "Parcial II/03-Pico CTF 2021 - Forensic/02-Lookey here.md",
-    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/02-Wireshark doo dooo do doo...md",
     "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/solución.png",
     "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/Captura de pantalla (2140).png",
     "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/shark.png",
     "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo/Screenshot_2023-04-19_14_45_24.png",
-    "Parcial II/02-Pico CTF 2021 - Forensic/02-Wireshark doo dooo do doo...md",
     "Parcial II/02-Pico CTF 2021 - Forensic/01-information/cat.jpg",
-    "Parcial II/02-Pico CTF 2021 - Forensic/01-information.md",
-    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets/solución.png",
-    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets.md",
-    "Parcial II/01-Pico CTF 2022 - Web/06-Power Cookie/06-Power Cookie.md",
-    "Parcial II/01-Pico CTF 2022 - Web/06-Power Cookie.md",
-    "Parcial II/01-Pico CTF 2022 - Web/05-Forbidden Paths.md"
+    "Parcial II/01-Pico CTF 2022 - Web/08-Secrets/solución.png"
   ]
 }
