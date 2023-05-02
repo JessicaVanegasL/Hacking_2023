@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5062575c2f3de4",
+        "id": "87fb3d9f92588697",
         "type": "tabs",
         "children": [
           {
-            "id": "5d69fa11852fd1db",
+            "id": "25c219b17024bdfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/05-ReadMyCert.md",
+                "file": "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/05-ReadMyCert.md",
+                "file": "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/05-ReadMyCert.md",
+                "file": "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/05-ReadMyCert.md"
+                "file": "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d69fa11852fd1db",
+  "active": "25c219b17024bdfa",
   "lastOpenFiles": [
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1/03- basic-mod1.md",
+    "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/VaultDoor4.java",
+    "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/VaultDoor4.class",
+    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3/VaultDoor3.class",
+    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1/02-vault-door-1.md",
+    "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4",
+    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3/03-vault-door-3.md",
+    "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md",
+    "Retos-picoCTF/Untitled.md",
+    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3/VaultDoor3.java",
+    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3.md",
+    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3",
+    "Retos-picoCTF/Retos Reverse Engineering/Nueva carpeta",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 5.md",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 4.md",
+    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1/VaultDoor1.java",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 6.md",
+    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1.md",
+    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1",
+    "Retos-picoCTF/Retos Reverse Engineering/01-vault-door-training/01-vault-door-training.md",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 7.md",
+    "Retos-picoCTF/Retos Reverse Engineering/01-vault-door-training/VaultDoorTraining.java",
+    "Retos-picoCTF/Retos Reverse Engineering/01-vault-door-training.md",
+    "Retos-picoCTF/Retos Reverse Engineering/01-vault-door-training",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 8.md",
+    "Retos-picoCTF/Retos Reverse Engineering/Untitled 2.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/05-ReadMyCert.md",
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1/03- basic-mod1.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/04-HideToSee.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/ReadMyCert.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert/readmycert.csr",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-ReadMyCert",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/07-ReadMyCert/ReadMyCert.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/07-ReadMyCert/readmycert.csr",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/07-ReadMyCert",
     "ConcursoPicoCTF2023/02-HideToSee/02-HideToSee.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/Subir imagen.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/atbash.jpg",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/atbash cipher.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/02-HideToSee.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/Subir imagen.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/atbash.jpg",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/atbash cipher.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/02-HideToSee.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1/exp.py",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1/message.txt",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2022/03- basic-mod1",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/02-Pixelated.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/Untitled.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/Soluciòn.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/Screenshot_2023-04-27_00_24_42.png",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/scrambled1.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/scrambled2.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/01-Mind your Ps and Qs/01-Mind your Ps and Qs.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/01-rsa pop quiz.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA/02-miniRSA.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/01-Mind your Ps and Qs.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/05-.md",
-    "Retos-picoCTF/Untitled.md",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1.md",
-    "Retos-picoCTF/Retos Binary Explotation/02-basic-mod1/02-buffer overflow 0.md",
-    "Retos-picoCTF/Retos Binary Explotation/01-basic-file-exploit/01-basic-file-exploit.md",
-    "Retos-picoCTF/Retos Binary Explotation/02-basic-mod1.md",
-    "Retos-picoCTF/Retos Binary Explotation/01-basic-file-exploit.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto  - parte 1/01-The numbers/01-The numbers.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/03-b00tl3gRSA2.md",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 2/02-miniRSA.md"
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2021/02-Pixelated/scrambled2.png"
   ]
 }
