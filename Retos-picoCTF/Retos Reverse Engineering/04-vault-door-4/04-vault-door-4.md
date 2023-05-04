@@ -96,4 +96,3 @@ picoCTF{jU5t_4_bUnCh_0f_bYt3s_8f4a6cbf3b}
 
 ## Referencias
 
-[rsa](https://simple.wikipedia.org/wiki/RSA_algorithm)
