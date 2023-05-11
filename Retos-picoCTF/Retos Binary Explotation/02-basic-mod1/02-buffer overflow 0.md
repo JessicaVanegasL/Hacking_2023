@@ -20,9 +20,7 @@ picoCTF{ov3rfl0ws_ar3nt_that_bad_8446a0c3}
                                                                                                                         
 ┌──(kali㉿kali)-[~/Documents/PicoCTF/Retos Crypto_2019]
 └─$ 
-
 ```
-
 
 ## Flag
 
@@ -30,7 +28,7 @@ picoCTF{ov3rfl0ws_ar3nt_that_bad_8446a0c3}
 
 ## Notas adicionales
 
-simplemente desborde la entrada con muchas "jjjjjjjjjjjjjj".
+- Simplemente desborde la entrada con muchas "jjjjjjjjjjjjjj".
 
 ## Referencias
 
