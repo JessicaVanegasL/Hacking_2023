@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3951807bf186631f",
+        "id": "a237657fe5f6c816",
         "type": "tabs",
         "children": [
           {
-            "id": "56910af9c95623eb",
+            "id": "36988ccfdd66f3c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a187fe02dca5daff",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,53 +146,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56910af9c95623eb",
+  "active": "36988ccfdd66f3c4",
   "lastOpenFiles": [
-    "Retos-picoCTF/Retos Binary Explotation/05-stronk/vuln.c",
+    "Parcial III/Binary Explotation/01-Picker IV/01-Picker IV.md",
+    "Parcial III/Binary Explotation/02- Local Target/02- Local Target.md",
+    "Parcial III/Binary Explotation/02- Local Target/local-target.c",
+    "Parcial III/Binary Explotation/02- Local Target/local-target",
+    "Parcial III/Binary Explotation/01-Picker IV/picker-IV.c",
+    "Parcial III/Binary Explotation/01-Picker IV/picker-IV",
     "Retos-picoCTF/Untitled.md",
-    "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md",
-    "Retos-picoCTF/Retos Binary Explotation/04-flag leak/04-flag leak.md",
-    "Retos-picoCTF/Retos Binary Explotation/05-stronk",
-    "Retos-picoCTF/Retos Binary Explotation/04-flag leak/vuln.c",
-    "Retos-picoCTF/Retos Binary Explotation/04-flag leak/vuln",
-    "Retos-picoCTF/Retos Binary Explotation/04-flag leak/flag.txt",
-    "Retos-picoCTF/Retos Binary Explotation/04-flag leak",
-    "Retos-picoCTF/Retos Binary Explotation/01-basic-file-exploit/01-basic-file-exploit.md",
-    "Retos-picoCTF/Retos Binary Explotation/02-basic-mod1/02-buffer overflow 0.md",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1/03-buffer overflow 1.md",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1.md",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1/vuln.c",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1/vuln",
-    "Retos-picoCTF/Retos Binary Explotation/03-buffer overflow 1",
-    "Retos-picoCTF/Retos Binary Explotation/New Folder/vuln.c",
-    "Retos-picoCTF/Retos Binary Explotation/New Folder/vuln",
-    "Retos-picoCTF/Retos Reverse Engineering/12-Safe Opener 2/12-Safe Opener 2.md",
+    "Parcial III/Reversing/01-ASCII FTW/01-ASCII FTW.md",
+    "Parcial III/Reversing/07-GDB baby step 2/07-GDB baby step 2.md",
+    "Parcial III/Reversing/07-GDB baby step 2/debugger0_b",
+    "Parcial III/Reversing/06-GDB baby step 1/06-GDB baby step 1.md",
+    "Parcial III/Reversing/06-GDB baby step 1/debugger0_a",
+    "Parcial III/Reversing/05-Bit-O-Asm-4/05-Bit-O-Asm-4.md",
+    "Parcial III/Reversing/04-Bit-O-Asm-3/04-Bit-O-Asm-3.md",
+    "Parcial III/Reversing/03-Bit-O-Asm-2/03-Bit-O-Asm-2.md",
+    "Parcial III/Reversing/02-Bit-O-Asm-1/02-Bit-O-Asm-1.md",
+    "Parcial III/Reversing/04-Bit-O-Asm-3/disassembler-dump0_c.txt",
+    "Parcial III/Reversing/05-Bit-O-Asm-4/disassembler-dump0_d.txt",
+    "Parcial III/Reversing/05-Bit-O-Asm-4/disassembler-dump0_c.txt",
+    "Parcial III/Reversing/03-Bit-O-Asm-2/disassembler-dump0_b.txt",
+    "Retos-picoCTF/Retos Reverse Engineering/06-asm1/06-asm1.md",
+    "Retos-picoCTF/Retos Reverse Engineering/05-vault-door-5/05-vault-door-5.md",
     "Retos-picoCTF/Retos Reverse Engineering/11-reverse_cipher/11-reverse_cipher.md",
     "Retos-picoCTF/Retos Reverse Engineering/10-GDB Test Drive/10-GDB Test Drive.md",
+    "Retos-picoCTF/Retos Reverse Engineering/09-Need For Speed/09-Need For Speed.md",
+    "Retos-picoCTF/Retos Reverse Engineering/08-asm3/08-asm3.md",
+    "Retos-picoCTF/Retos Reverse Engineering/07-asm2/07-asm2.md",
+    "Parcial III/Binary Explotation/03-clutter-overflow/03-clutter-overflow.md",
+    "Parcial III/Binary Explotation/04-two-sum/04-two-sum.md",
+    "Parcial III/Crypto/05-SRA/05-SRA.md",
+    "Parcial III/Crypto/04-Vigenere/04-Vigenere.md",
+    "Parcial III/Crypto/04-Vigenere/flag.png",
+    "Parcial III/Crypto/04-Vigenere/Captura de pantalla (2156).png",
+    "Parcial III/Crypto/03-transposition-trial/03-transposition-trial.md",
+    "Parcial III/Crypto/02-Mr-Worldwide/02-Mr-Worldwide.md",
+    "Parcial III/Crypto/01-Flags/01-Flags.md",
+    "Parcial III/Crypto/01-Flags/international-code-of-signals-682x379.png",
+    "Parcial III/Crypto/01-Flags/flag.png",
+    "Retos-picoCTF/Retos Binary Explotation/05-stronk/05-stronk.md",
     "Retos-picoCTF/Retos Reverse Engineering/10-GDB Test Drive/pico.png",
     "Retos-picoCTF/Retos Reverse Engineering/10-GDB Test Drive/Screenshot_2023-05-07_15_27_01.png",
     "Retos-picoCTF/Retos Reverse Engineering/10-GDB Test Drive/01r.png",
     "Retos-picoCTF/Retos Reverse Engineering/10-GDB Test Drive/Screenshot_2023-05-07_15_24_52.png",
-    "Retos-picoCTF/Retos Reverse Engineering/09-Need For Speed/09-Need For Speed.md",
-    "Retos-picoCTF/Retos Reverse Engineering/08-asm3/08-asm3.md",
-    "Retos-picoCTF/Retos Reverse Engineering/07-asm2/07-asm2.md",
-    "Retos-picoCTF/Retos Reverse Engineering/06-asm1/06-asm1.md",
-    "Retos-picoCTF/Retos Reverse Engineering/04-vault-door-4/04-vault-door-4.md",
-    "Retos-picoCTF/Retos Reverse Engineering/05-vault-door-5/05-vault-door-5.md",
-    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1/02-vault-door-1.md",
-    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3/03-vault-door-3.md",
-    "Retos-picoCTF/Retos Reverse Engineering/03-vault-door-3.md",
-    "Retos-picoCTF/Retos Reverse Engineering/Untitled 5.md",
-    "Retos-picoCTF/Retos Reverse Engineering/Untitled 4.md",
-    "Retos-picoCTF/Retos Reverse Engineering/Untitled 6.md",
-    "Retos-picoCTF/Retos Reverse Engineering/02-vault-door-1.md",
-    "Retos-picoCTF/Retos Reverse Engineering/01-vault-door-training/01-vault-door-training.md",
-    "Retos-picoCTF/Retos Reverse Engineering/Untitled 7.md",
     "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/Subir imagen.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/atbash.jpg",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/atbash cipher.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/Subir imagen.png",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/atbash.jpg",
-    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/02-HideToSee/atbash cipher.png"
+    "Retos-picoCTF/Retos Crypto/Retos -crypto - parte 3/picoCTF 2023/04-HideToSee/atbash.jpg"
   ]
 }
